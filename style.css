@@ -66,6 +66,7 @@ input:focus {
 .top-nav a:link {font-family: sans-serif; color: #333; text-decoration: none;}
 .top-nav a:visited {font-family: sans-serif; color: #333; text-decoration: none;}
 .top-nav a:hover {font-family: sans-serif; color: #333; text-decoration: underline;}
+.top-nav i {color: #333;}
 
 .top-nav {
 	min-width: 980px;
