@@ -134,10 +134,10 @@ input:focus {
 }
 
 .text-input { 
-	background-image:url("images/voice.gif");
+	background-image:url("microphone.png");
  	background-repeat:no-repeat;
   	background-position: 99% 50%;
-  	background-size: 14px 19px;
+  	background-size: 19px 19px;
 	border: 1px solid #ccc; 
 	width: 620px;
 	height: 26px;
